@@ -1,3 +1,6 @@
+🔐 Password Generator – Secure & Customizable
+This project is a simple yet powerful Password Generator that creates secure, random passwords based on user preferences. It helps users generate strong passwords that include a mix of uppercase letters, lowercase letters, numbers, and special characters, with customizable length.
+
 ⚙️ Features
 ✅ Generates strong, random passwords
 
