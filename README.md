@@ -2,6 +2,7 @@
 This project is a simple yet powerful Password Generator that creates secure, random passwords based on user preferences. It helps users generate strong passwords that include a mix of uppercase letters, lowercase letters, numbers, and special characters, with customizable length.
 
 ⚙️ Features
+
 ✅ Generates strong, random passwords
 
 🔢 Customizable password length
@@ -21,6 +22,7 @@ Special characters
 💡 Easy-to-use and responsive UI
 
 🛠️ Technologies Used
+
 HTML
 
 CSS
